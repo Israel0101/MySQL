@@ -1,0 +1,13 @@
+public static void main(String args[]) - USAR SEMPRE PARA SAÍDA DE DADOS
+
+Scanner ler = new Scaneer(System.in);
+System.out.println();
+variável = ler.nextint();
+
+float - real
+
+git status 
+cd (nome da pasta do exer)
+git add .
+git commit -m
+git push origin 
